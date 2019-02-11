@@ -1,0 +1,48 @@
+.header { 
+    color: black;
+    
+ }
+
+.instruction {
+	border: 1px solid black;
+	background-color: white; 
+    color: black;
+    padding: 2%;
+
+}
+
+
+.totalWL { 
+	border: 1px solid black;
+	background-color: white; 
+
+ }
+
+ .scoreDisplay {
+    border: 1px solid black;
+   background-color: white; 
+   color: black;
+   font-size: 400%;
+}
+ .randomNumber {
+	border: 1px solid black;
+	background-color: white; 
+	color: black;
+	font-size: 500%; 
+}
+
+.wins, .losses { 
+    color: black;
+    padding: 2%;
+
+  }
+
+  
+  .totalScore {
+    border: 0px solid black; 
+    background-color: white;
+   color: black;
+   padding: 1%;
+
+
+}
